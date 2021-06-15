@@ -1,0 +1,56 @@
+[
+  {
+      "category": 1,
+      "name": "Стул",
+      "image": "products_images/product-21.jpg",
+      "short_desc": "Обычный стул",
+      "description": "Самый обычный стул",
+      "price": "1000.00",
+      "quantity": 50,
+      "created": "2021-05-30T12:52:37.648",
+      "updated": "2021-05-30T12:52:37.689"
+  },
+  {
+      "category": 1,
+      "name": "Крутой Стул",
+      "image": "products_images/product-4.jpg",
+      "short_desc": "Очень крутой стул",
+      "description": "Самый обычный стул, но лучше",
+      "price": "2500.00",
+      "quantity": 15,
+      "created": "2021-05-30T12:52:37.648",
+      "updated": "2021-05-30T12:52:37.689"
+  },
+  {
+      "category": 1,
+      "name": "Диван",
+      "image": "products_images/product-3-sm.jpg",
+      "short_desc": "Обычный диван",
+      "description": "Заменит собой до 4 стульев!",
+      "price": "5000.00",
+      "quantity": 30,
+      "created": "2021-05-30T12:52:37.648",
+      "updated": "2021-05-30T12:52:37.689"
+  },
+  {
+      "category": 2,
+      "name": "Лампа",
+      "image": "products_images/product-11.jpg",
+      "short_desc": "Она светит!",
+      "description": "Отлично подходит к столу",
+      "price": "1350.00",
+      "quantity": 100,
+      "created": "2021-05-30T12:52:37.648",
+      "updated": "2021-05-30T12:52:37.689"
+  },
+  {
+      "category": 2,
+      "name": "Часы",
+      "image": "products_images/product-4-sm.jpg",
+      "short_desc": "Работают как часы",
+      "price": "500.00",
+      "quantity": 121,
+      "created": "2021-05-30T12:52:37.648",
+      "updated": "2021-05-30T12:52:37.689"
+  }
+]
